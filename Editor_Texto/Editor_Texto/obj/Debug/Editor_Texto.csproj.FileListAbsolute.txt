@@ -1,0 +1,10 @@
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\bin\Debug\Editor_Texto.exe.config
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\bin\Debug\Editor_Texto.exe
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\bin\Debug\Editor_Texto.pdb
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.csproj.AssemblyReference.cache
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.Properties.Resources.resources
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.csproj.GenerateResource.cache
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.exe
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.pdb
+C:\Users\igorg\Desktop\GitHub\Projetos_GitHub\Editor_de_Texto\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.editorDeTextoForm.resources
